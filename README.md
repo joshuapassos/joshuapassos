@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oieeeee 👋
+
+- 🏡 Moro em Salvador-BA;
+- 🤷🏽‍ Faço Engenharia de Computação (Universidade Federal do Recôncavo da Bahia)
+- 📚λ📚 Gosto de estudar sobre Sistemas distribuídos, compiladores e teoria de linguagens. Sou apaixonado por langs funcionais λ
+- 👨🏽‍💻 Atualmente trabalho na [Cubos](https://cubos.io/) como Teach Lead
 
 <!--
 **joshuapassos/joshuapassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
